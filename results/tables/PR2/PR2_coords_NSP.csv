@@ -1,0 +1,55 @@
+Accession,Host,Group,x,y
+PP747354,equine,Equine,0.4750,0.5153
+PP747353,equine,Equine,0.4750,0.5153
+PP747352,equine,Equine,0.4743,0.5154
+PP747351,equine,Equine,0.4747,0.5158
+PP747350,equine,Equine,0.4747,0.5158
+PP747349,equine,Equine,0.4763,0.5150
+PP747348,equine,Equine,0.4746,0.5158
+PP747347,equine,Equine,0.4750,0.5153
+PP747346,equine,Equine,0.4751,0.5154
+PP747345,equine,Equine,0.4750,0.5153
+PP747344,equine,Equine,0.4750,0.5153
+PP747343,equine,Equine,0.4763,0.5150
+PP747342,equine,Equine,0.4747,0.5158
+PP747341,equine,Equine,0.4747,0.5158
+PP747340,equine,Equine,0.4770,0.5141
+MN477208,Homo sapiens,Human,0.4775,0.5138
+KJ554991,mosquito,Mosquito,0.4827,0.5155
+KJ554990,mosquito,Mosquito,0.4823,0.5168
+KJ554989,mosquito,Mosquito,0.4804,0.5197
+KJ554988,mosquito,Mosquito,0.4808,0.5193
+KJ554986,mosquito,Mosquito,0.4846,0.5175
+KJ554985,Culex tarsalis,Mosquito,0.4803,0.5163
+KJ554984,Culex tarsalis,Mosquito,0.4799,0.5167
+KJ554983,mosquito,Mosquito,0.4835,0.5172
+KJ554982,mosquito,Mosquito,0.4819,0.5188
+KJ554981,mosquito,Mosquito,0.4838,0.5142
+KJ554980,mosquito,Mosquito,0.4808,0.5159
+KJ554979,Culex tarsalis,Mosquito,0.4808,0.5159
+KJ554978,Culex tarsalis,Mosquito,0.4850,0.5129
+KJ554977,mosquito,Mosquito,0.4791,0.5167
+KJ554976,Culex tarsalis,Mosquito,0.4788,0.5197
+KJ554974,Culex tarsalis,Mosquito,0.4753,0.5201
+KJ554973,Culex tarsalis,Mosquito,0.4799,0.5167
+KJ554972,Culex tarsalis,Mosquito,0.4815,0.5159
+KJ554971,Gopherus berlandieri,Others,0.4780,0.5176
+KJ554970,Sciurus griseus,Others,0.4808,0.5151
+KJ554969,Zonotrichia leucophrys,Others,0.4760,0.5201
+KJ554968,Culex tarsalis,Mosquito,0.4760,0.5201
+KJ554967,mosquito,Mosquito,0.4758,0.5198
+KJ554966,Culex tarsalis,Mosquito,0.4772,0.5180
+KJ554965,horse,Equine,0.4760,0.5146
+OQ184867,Homo sapiens,Human,0.4800,0.5168
+PP544260,equine,Equine,0.4747,0.5158
+PP669617,equine,Equine,0.4739,0.5166
+NC_075015,Culex sp.,Mosquito,0.4786,0.5213
+GQ287647,Culex tarsalis,Mosquito,0.4835,0.5163
+GQ287645,horse,Equine,0.4795,0.5176
+GQ287644,Culex tarsalis,Mosquito,0.4768,0.5197
+GQ287643,horse,Equine,0.4777,0.5190
+GQ287642,Culex tarsalis,Mosquito,0.4828,0.5172
+GQ287641,Culex tarsalis,Mosquito,0.4828,0.5160
+GQ287640,Homo sapiens,Human,0.4760,0.5142
+Mean,,,0.4783,0.5166
+SD,,,0.0033,0.0019

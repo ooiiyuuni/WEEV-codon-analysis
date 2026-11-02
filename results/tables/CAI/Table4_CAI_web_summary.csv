@@ -1,0 +1,19 @@
+Dataset,Host,Observed_CAI,Expected_eCAI,CAI_eCAI_Ratio
+CDS,Aedes aegypti,0.742,0.785,0.945
+CDS,Culex tarsalis,0.599,0.658,0.91
+CDS,Haemorhous mexicanus,0.698,0.754,0.926
+CDS,Passer domesticus,0.732,0.789,0.928
+CDS,Equus caballus,0.719,0.772,0.931
+CDS,Homo sapiens,0.74,0.796,0.93
+NSP,Aedes aegypti,0.747,0.791,0.944
+NSP,Culex tarsalis,0.605,0.662,0.914
+NSP,Haemorhous mexicanus,0.706,0.766,0.922
+NSP,Passer domesticus,0.737,0.795,0.927
+NSP,Equus caballus,0.723,0.778,0.929
+NSP,Homo sapiens,0.746,0.803,0.929
+SP,Aedes aegypti,0.745,0.788,0.945
+SP,Culex tarsalis,0.607,0.663,0.916
+SP,Haemorhous mexicanus,0.705,0.763,0.924
+SP,Passer domesticus,0.735,0.792,0.928
+SP,Equus caballus,0.723,0.775,0.933
+SP,Homo sapiens,0.744,0.8,0.93

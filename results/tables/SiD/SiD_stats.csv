@@ -1,0 +1,73 @@
+Analysis,Group,Scope,Test,Comparison,Statistic,df,P_value,BH_q
+Host comparison,CDS,All six hosts,Friedman,All six hosts,256.1429,5,2.642e-53,NA
+Host comparison,NSP,All six hosts,Friedman,All six hosts,257.7582,5,1.1889999999999998e-53,NA
+Host comparison,SP,All six hosts,Friedman,All six hosts,226.1209,5,7.253999999999999e-47,NA
+Host comparison,CDS,All six hosts,Wilcoxon signed-rank (paired),Aedes aegypti vs Culex tarsalis,0,NA,3.6e-10,4.404e-10
+Host comparison,CDS,All six hosts,Wilcoxon signed-rank (paired),Aedes aegypti vs Haemorhous mexicanus,1367,NA,6.818e-10,7.305e-10
+Host comparison,CDS,All six hosts,Wilcoxon signed-rank (paired),Aedes aegypti vs Passer domesticus,1378,NA,3.6e-10,4.404e-10
+Host comparison,CDS,All six hosts,Wilcoxon signed-rank (paired),Aedes aegypti vs Equus caballus,1377,NA,3.817e-10,4.404e-10
+Host comparison,CDS,All six hosts,Wilcoxon signed-rank (paired),Aedes aegypti vs Homo sapiens,1378,NA,3.6e-10,4.404e-10
+Host comparison,CDS,All six hosts,Wilcoxon signed-rank (paired),Culex tarsalis vs Haemorhous mexicanus,1378,NA,3.6e-10,4.404e-10
+Host comparison,CDS,All six hosts,Wilcoxon signed-rank (paired),Culex tarsalis vs Passer domesticus,1378,NA,3.6e-10,4.404e-10
+Host comparison,CDS,All six hosts,Wilcoxon signed-rank (paired),Culex tarsalis vs Equus caballus,1378,NA,3.6e-10,4.404e-10
+Host comparison,CDS,All six hosts,Wilcoxon signed-rank (paired),Culex tarsalis vs Homo sapiens,1378,NA,3.6e-10,4.404e-10
+Host comparison,CDS,All six hosts,Wilcoxon signed-rank (paired),Haemorhous mexicanus vs Passer domesticus,1378,NA,3.6e-10,4.404e-10
+Host comparison,CDS,All six hosts,Wilcoxon signed-rank (paired),Haemorhous mexicanus vs Equus caballus,1357,NA,1.208e-9,1.208e-9
+Host comparison,CDS,All six hosts,Wilcoxon signed-rank (paired),Haemorhous mexicanus vs Homo sapiens,1378,NA,3.6e-10,4.404e-10
+Host comparison,CDS,All six hosts,Wilcoxon signed-rank (paired),Passer domesticus vs Equus caballus,0,NA,3.6e-10,4.404e-10
+Host comparison,CDS,All six hosts,Wilcoxon signed-rank (paired),Passer domesticus vs Homo sapiens,1,NA,3.817e-10,4.404e-10
+Host comparison,CDS,All six hosts,Wilcoxon signed-rank (paired),Equus caballus vs Homo sapiens,1378,NA,3.6e-10,4.404e-10
+Host comparison,NSP,All six hosts,Wilcoxon signed-rank (paired),Aedes aegypti vs Culex tarsalis,0,NA,3.592e-10,4.08e-10
+Host comparison,NSP,All six hosts,Wilcoxon signed-rank (paired),Aedes aegypti vs Haemorhous mexicanus,1377,NA,3.808e-10,4.08e-10
+Host comparison,NSP,All six hosts,Wilcoxon signed-rank (paired),Aedes aegypti vs Passer domesticus,1378,NA,3.592e-10,4.08e-10
+Host comparison,NSP,All six hosts,Wilcoxon signed-rank (paired),Aedes aegypti vs Equus caballus,1377,NA,3.808e-10,4.08e-10
+Host comparison,NSP,All six hosts,Wilcoxon signed-rank (paired),Aedes aegypti vs Homo sapiens,1378,NA,3.592e-10,4.08e-10
+Host comparison,NSP,All six hosts,Wilcoxon signed-rank (paired),Culex tarsalis vs Haemorhous mexicanus,1378,NA,3.592e-10,4.08e-10
+Host comparison,NSP,All six hosts,Wilcoxon signed-rank (paired),Culex tarsalis vs Passer domesticus,1378,NA,3.592e-10,4.08e-10
+Host comparison,NSP,All six hosts,Wilcoxon signed-rank (paired),Culex tarsalis vs Equus caballus,1378,NA,3.592e-10,4.08e-10
+Host comparison,NSP,All six hosts,Wilcoxon signed-rank (paired),Culex tarsalis vs Homo sapiens,1378,NA,3.592e-10,4.08e-10
+Host comparison,NSP,All six hosts,Wilcoxon signed-rank (paired),Haemorhous mexicanus vs Passer domesticus,1378,NA,3.592e-10,4.08e-10
+Host comparison,NSP,All six hosts,Wilcoxon signed-rank (paired),Haemorhous mexicanus vs Equus caballus,1378,NA,3.592e-10,4.08e-10
+Host comparison,NSP,All six hosts,Wilcoxon signed-rank (paired),Haemorhous mexicanus vs Homo sapiens,1378,NA,3.592e-10,4.08e-10
+Host comparison,NSP,All six hosts,Wilcoxon signed-rank (paired),Passer domesticus vs Equus caballus,0,NA,3.592e-10,4.08e-10
+Host comparison,NSP,All six hosts,Wilcoxon signed-rank (paired),Passer domesticus vs Homo sapiens,38,NA,3.129e-9,3.129e-9
+Host comparison,NSP,All six hosts,Wilcoxon signed-rank (paired),Equus caballus vs Homo sapiens,1378,NA,3.592e-10,4.08e-10
+Host comparison,SP,All six hosts,Wilcoxon signed-rank (paired),Aedes aegypti vs Culex tarsalis,0,NA,3.581e-10,5.695e-10
+Host comparison,SP,All six hosts,Wilcoxon signed-rank (paired),Aedes aegypti vs Haemorhous mexicanus,361,NA,0.002854,0.003058
+Host comparison,SP,All six hosts,Wilcoxon signed-rank (paired),Aedes aegypti vs Passer domesticus,1350,NA,1.785e-9,2.231e-9
+Host comparison,SP,All six hosts,Wilcoxon signed-rank (paired),Aedes aegypti vs Equus caballus,18,NA,1.013e-9,1.382e-9
+Host comparison,SP,All six hosts,Wilcoxon signed-rank (paired),Aedes aegypti vs Homo sapiens,377,NA,0.004549,0.004549
+Host comparison,SP,All six hosts,Wilcoxon signed-rank (paired),Culex tarsalis vs Haemorhous mexicanus,1378,NA,3.581e-10,5.695e-10
+Host comparison,SP,All six hosts,Wilcoxon signed-rank (paired),Culex tarsalis vs Passer domesticus,1378,NA,3.581e-10,5.695e-10
+Host comparison,SP,All six hosts,Wilcoxon signed-rank (paired),Culex tarsalis vs Equus caballus,1378,NA,3.581e-10,5.695e-10
+Host comparison,SP,All six hosts,Wilcoxon signed-rank (paired),Culex tarsalis vs Homo sapiens,1378,NA,3.581e-10,5.695e-10
+Host comparison,SP,All six hosts,Wilcoxon signed-rank (paired),Haemorhous mexicanus vs Passer domesticus,1378,NA,3.581e-10,5.695e-10
+Host comparison,SP,All six hosts,Wilcoxon signed-rank (paired),Haemorhous mexicanus vs Equus caballus,1,NA,3.796e-10,5.695e-10
+Host comparison,SP,All six hosts,Wilcoxon signed-rank (paired),Haemorhous mexicanus vs Homo sapiens,1021,NA,0.002532,0.002921
+Host comparison,SP,All six hosts,Wilcoxon signed-rank (paired),Passer domesticus vs Equus caballus,0,NA,3.581e-10,5.695e-10
+Host comparison,SP,All six hosts,Wilcoxon signed-rank (paired),Passer domesticus vs Homo sapiens,0,NA,3.581e-10,5.695e-10
+Host comparison,SP,All six hosts,Wilcoxon signed-rank (paired),Equus caballus vs Homo sapiens,1378,NA,3.581e-10,5.695e-10
+Region comparison,Aedes aegypti,All three regions,Friedman,All three regions,93.3846,2,5.27e-21,NA
+Region comparison,Culex tarsalis,All three regions,Friedman,All three regions,98.3462,2,4.41e-22,NA
+Region comparison,Haemorhous mexicanus,All three regions,Friedman,All three regions,104,2,2.6099999999999997e-23,NA
+Region comparison,Passer domesticus,All three regions,Friedman,All three regions,102.0385,2,6.96e-23,NA
+Region comparison,Equus caballus,All three regions,Friedman,All three regions,79.3846,2,5.779e-18,NA
+Region comparison,Homo sapiens,All three regions,Friedman,All three regions,87.8462,2,8.403000000000001e-20,NA
+Region comparison,Aedes aegypti,All three regions,Wilcoxon signed-rank (paired),CDS vs NSP,0,NA,3.6e-10,5.401e-10
+Region comparison,Aedes aegypti,All three regions,Wilcoxon signed-rank (paired),CDS vs SP,0,NA,3.6e-10,5.401e-10
+Region comparison,Aedes aegypti,All three regions,Wilcoxon signed-rank (paired),NSP vs SP,1319,NA,9.861e-9,9.861e-9
+Region comparison,Culex tarsalis,All three regions,Wilcoxon signed-rank (paired),CDS vs NSP,0,NA,3.6e-10,5.401e-10
+Region comparison,Culex tarsalis,All three regions,Wilcoxon signed-rank (paired),CDS vs SP,1363,NA,8.579e-10,8.579e-10
+Region comparison,Culex tarsalis,All three regions,Wilcoxon signed-rank (paired),NSP vs SP,1378,NA,3.6e-10,5.401e-10
+Region comparison,Haemorhous mexicanus,All three regions,Wilcoxon signed-rank (paired),CDS vs NSP,0,NA,3.6e-10,3.6e-10
+Region comparison,Haemorhous mexicanus,All three regions,Wilcoxon signed-rank (paired),CDS vs SP,0,NA,3.6e-10,3.6e-10
+Region comparison,Haemorhous mexicanus,All three regions,Wilcoxon signed-rank (paired),NSP vs SP,0,NA,3.6e-10,3.6e-10
+Region comparison,Passer domesticus,All three regions,Wilcoxon signed-rank (paired),CDS vs NSP,10,NA,6.436e-10,6.436e-10
+Region comparison,Passer domesticus,All three regions,Wilcoxon signed-rank (paired),CDS vs SP,0,NA,3.6e-10,5.401e-10
+Region comparison,Passer domesticus,All three regions,Wilcoxon signed-rank (paired),NSP vs SP,0,NA,3.6e-10,5.401e-10
+Region comparison,Equus caballus,All three regions,Wilcoxon signed-rank (paired),CDS vs NSP,341,NA,0.001552,0.001552
+Region comparison,Equus caballus,All three regions,Wilcoxon signed-rank (paired),CDS vs SP,0,NA,3.6e-10,5.401e-10
+Region comparison,Equus caballus,All three regions,Wilcoxon signed-rank (paired),NSP vs SP,0,NA,3.6e-10,5.401e-10
+Region comparison,Homo sapiens,All three regions,Wilcoxon signed-rank (paired),CDS vs NSP,1074,NA,4.621e-4,4.621e-4
+Region comparison,Homo sapiens,All three regions,Wilcoxon signed-rank (paired),CDS vs SP,0,NA,3.6e-10,5.401e-10
+Region comparison,Homo sapiens,All three regions,Wilcoxon signed-rank (paired),NSP vs SP,0,NA,3.6e-10,5.401e-10

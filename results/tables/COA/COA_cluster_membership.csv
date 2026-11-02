@@ -1,0 +1,469 @@
+Region,k,Accession,Cluster,Sil_width,Host,Country,HostGroup,GeoRegion
+CDS,2,PP747354,1,0.8293090479804776,equine,Uruguay,Equine,South America
+CDS,2,PP747353,1,0.8618943096363493,equine,Uruguay,Equine,South America
+CDS,2,PP747352,1,0.8661233226133063,equine,Uruguay,Equine,South America
+CDS,2,PP747351,1,0.8626084710771369,equine,Uruguay,Equine,South America
+CDS,2,PP747350,1,0.8626084710771365,equine,Uruguay,Equine,South America
+CDS,2,PP747349,1,0.8585043457071193,equine,Uruguay,Equine,South America
+CDS,2,PP747348,1,0.8620977079964212,equine,Uruguay,Equine,South America
+CDS,2,PP747347,1,0.8658105617481489,equine,Uruguay,Equine,South America
+CDS,2,PP747346,1,0.8644627501595775,equine,Uruguay,Equine,South America
+CDS,2,PP747345,1,0.8654976239152412,equine,Uruguay,Equine,South America
+CDS,2,PP747344,1,0.865088508211071,equine,Uruguay,Equine,South America
+CDS,2,PP747343,1,0.8658953703959418,equine,Uruguay,Equine,South America
+CDS,2,PP747342,1,0.8626084710771365,equine,Uruguay,Equine,South America
+CDS,2,PP747341,1,0.8626084710771365,equine,Uruguay,Equine,South America
+CDS,2,PP747340,1,0.8400398260533595,equine,Uruguay,Equine,South America
+CDS,2,MN477208,2,0.6304458450039603,Homo sapiens,USA,Human,North America
+CDS,2,KJ554991,2,0.7255957328655063,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+CDS,2,KJ554990,2,0.69977334071258,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+CDS,2,KJ554989,2,0.7586679305643473,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+CDS,2,KJ554988,2,0.7357947798686986,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+CDS,2,KJ554986,2,0.7522885981469454,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+CDS,2,KJ554985,2,0.7127703383129997,Culex tarsalis,"USA: Lake Co., CA",Mosquito,North America
+CDS,2,KJ554984,2,0.7076020898300072,Culex tarsalis,"USA: Contra Costa Co., CA",Mosquito,North America
+CDS,2,KJ554983,2,0.7262998511983404,mosquito,"USA: Yuma, AZ",Mosquito,North America
+CDS,2,KJ554982,2,0.7487342345666497,mosquito,"USA: Phoenix, AZ",Mosquito,North America
+CDS,2,KJ554981,2,0.77011957934542985,mosquito,"USA: Parker, AZ",Mosquito,North America
+CDS,2,KJ554980,2,0.7338348054017791,mosquito,"USA: Tacna, AZ",Mosquito,North America
+CDS,2,KJ554979,2,0.7404981808800697,Culex tarsalis,"USA: Larimer City, CO",Mosquito,North America
+CDS,2,KJ554978,2,0.7414168353351885,Culex tarsalis,"USA: Imperial Co., CA",Mosquito,North America
+CDS,2,KJ554977,2,0.6866116770402353,mosquito,"USA: Lubbock Co., TX",Mosquito,North America
+CDS,2,KJ554976,2,0.7538263351759406,Culex tarsalis,"USA: Riverside Co., CA",Mosquito,North America
+CDS,2,KJ554974,2,0.5181797490303427,Culex tarsalis,"USA: Kern Co., CA",Mosquito,North America
+CDS,2,KJ554973,2,0.7516827180845356,Culex tarsalis,"USA: Wilkin City, MN",Mosquito,North America
+CDS,2,KJ554972,2,0.7356883169758581,Culex tarsalis,"USA: Butte Co., CA",Mosquito,North America
+CDS,2,KJ554971,2,0.7560863883305712,Gopherus berlandieri,USA: Texas,Others,North America
+CDS,2,KJ554970,2,0.7379077675521148,Sciurus griseus,"USA: Butte Co., CA",Others,North America
+CDS,2,KJ554969,2,0.5752598263426254,Zonotrichia leucophrys,"USA: Kern Co., CA",Others,North America
+CDS,2,KJ554968,2,0.5732078297869719,Culex tarsalis,"USA: Bakersfield, CA",Mosquito,North America
+CDS,2,KJ554967,2,0.5900729603777307,mosquito,USA: Missouri,Mosquito,North America
+CDS,2,KJ554966,2,0.562234830458631,Culex tarsalis,"USA: Bakersfield, CA",Mosquito,North America
+CDS,2,KJ554965,2,0.5570437773513022,horse,"USA: San Joaquin Valley, CA",Equine,North America
+CDS,2,OQ184867,2,0.7594009321468523,Homo sapiens,"USA: Larimer County, Colorado",Human,North America
+CDS,2,PP544260,1,0.8609510945715774,equine,Brazil,Equine,South America
+CDS,2,PP669617,1,0.8654490444475537,equine,Brazil,Equine,South America
+CDS,2,NC_075015,1,0.00670039798997618,Culex sp.,Argentina: Chaco Province,Mosquito,South America
+CDS,2,GQ287647,2,0.7508622420223676,Culex tarsalis,USA: New Mexico,Mosquito,North America
+CDS,2,GQ287645,2,0.7254954717141667,horse,USA: Oregon,Equine,North America
+CDS,2,GQ287644,2,0.5992779476674696,Culex tarsalis,"USA: Kern County, California",Mosquito,North America
+CDS,2,GQ287643,2,0.699468379352964,horse,USA: Montana,Equine,North America
+CDS,2,GQ287642,2,0.714378363717105,Culex tarsalis,"USA: Kern County, California",Mosquito,North America
+CDS,2,GQ287641,2,0.7250715582535829,Culex tarsalis,"USA: Imperial County, California",Mosquito,North America
+CDS,2,GQ287640,2,0.5837556024563516,Homo sapiens,Canada: Ontario,Human,North America
+CDS,3,PP747354,2,0.9415037833134973,equine,Uruguay,Equine,South America
+CDS,3,PP747353,2,0.9809832694870506,equine,Uruguay,Equine,South America
+CDS,3,PP747352,2,0.9856104977880347,equine,Uruguay,Equine,South America
+CDS,3,PP747351,2,0.9833388881712022,equine,Uruguay,Equine,South America
+CDS,3,PP747350,2,0.983338888171202,equine,Uruguay,Equine,South America
+CDS,3,PP747349,2,0.9760587809750862,equine,Uruguay,Equine,South America
+CDS,3,PP747348,2,0.9796958103390974,equine,Uruguay,Equine,South America
+CDS,3,PP747347,2,0.9846244120114528,equine,Uruguay,Equine,South America
+CDS,3,PP747346,2,0.9847274065834251,equine,Uruguay,Equine,South America
+CDS,3,PP747345,2,0.984158773303712,equine,Uruguay,Equine,South America
+CDS,3,PP747344,2,0.9837538128844066,equine,Uruguay,Equine,South America
+CDS,3,PP747343,2,0.985126729502982,equine,Uruguay,Equine,South America
+CDS,3,PP747342,2,0.983338888171202,equine,Uruguay,Equine,South America
+CDS,3,PP747341,2,0.9833388881712017,equine,Uruguay,Equine,South America
+CDS,3,PP747340,2,0.9593041982642995,equine,Uruguay,Equine,South America
+CDS,3,MN477208,1,0.6043302365852072,Homo sapiens,USA,Human,North America
+CDS,3,KJ554991,1,0.7172416447814983,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+CDS,3,KJ554990,1,0.6914467091232229,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+CDS,3,KJ554989,1,0.7498003585061179,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+CDS,3,KJ554988,1,0.7274977681857449,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+CDS,3,KJ554986,1,0.7436927271013452,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+CDS,3,KJ554985,1,0.6911082011319445,Culex tarsalis,"USA: Lake Co., CA",Mosquito,North America
+CDS,3,KJ554984,1,0.6850931488444354,Culex tarsalis,"USA: Contra Costa Co., CA",Mosquito,North America
+CDS,3,KJ554983,1,0.71764359722319,mosquito,"USA: Yuma, AZ",Mosquito,North America
+CDS,3,KJ554982,1,0.7398648636569263,mosquito,"USA: Phoenix, AZ",Mosquito,North America
+CDS,3,KJ554981,1,0.7599803561883556,mosquito,"USA: Parker, AZ",Mosquito,North America
+CDS,3,KJ554980,1,0.7144512830560706,mosquito,"USA: Tacna, AZ",Mosquito,North America
+CDS,3,KJ554979,1,0.7220265107718283,Culex tarsalis,"USA: Larimer City, CO",Mosquito,North America
+CDS,3,KJ554978,1,0.7330632602460677,Culex tarsalis,"USA: Imperial Co., CA",Mosquito,North America
+CDS,3,KJ554977,1,0.6605944192675344,mosquito,"USA: Lubbock Co., TX",Mosquito,North America
+CDS,3,KJ554976,1,0.7436979314906672,Culex tarsalis,"USA: Riverside Co., CA",Mosquito,North America
+CDS,3,KJ554974,1,0.46223799242697006,Culex tarsalis,"USA: Kern Co., CA",Mosquito,North America
+CDS,3,KJ554973,1,0.7358019332518915,Culex tarsalis,"USA: Wilkin City, MN",Mosquito,North America
+CDS,3,KJ554972,1,0.7163372528147045,Culex tarsalis,"USA: Butte Co., CA",Mosquito,North America
+CDS,3,KJ554971,1,0.7434234520779092,Gopherus berlandieri,USA: Texas,Others,North America
+CDS,3,KJ554970,1,0.7185170747228735,Sciurus griseus,"USA: Butte Co., CA",Others,North America
+CDS,3,KJ554969,1,0.5293173958537788,Zonotrichia leucophrys,"USA: Kern Co., CA",Others,North America
+CDS,3,KJ554968,1,0.5269640241398612,Culex tarsalis,"USA: Bakersfield, CA",Mosquito,North America
+CDS,3,KJ554967,1,0.5467332790805316,mosquito,USA: Missouri,Mosquito,North America
+CDS,3,KJ554966,1,0.5140683349921309,Culex tarsalis,"USA: Bakersfield, CA",Mosquito,North America
+CDS,3,KJ554965,1,0.5089008825550251,horse,"USA: San Joaquin Valley, CA",Equine,North America
+CDS,3,OQ184867,1,0.7436983633844467,Homo sapiens,"USA: Larimer County, Colorado",Human,North America
+CDS,3,PP544260,2,0.9818187361267728,equine,Brazil,Equine,South America
+CDS,3,PP669617,2,0.9852995257128103,equine,Brazil,Equine,South America
+CDS,3,NC_075015,3,0,Culex sp.,Argentina: Chaco Province,Mosquito,South America
+CDS,3,GQ287647,1,0.7414165540327553,Culex tarsalis,USA: New Mexico,Mosquito,North America
+CDS,3,GQ287645,1,0.7082643803942544,horse,USA: Oregon,Equine,North America
+CDS,3,GQ287644,1,0.5575768835192528,Culex tarsalis,"USA: Kern County, California",Mosquito,North America
+CDS,3,GQ287643,1,0.6794185791742582,horse,USA: Montana,Equine,North America
+CDS,3,GQ287642,1,0.7061589556559428,Culex tarsalis,"USA: Kern County, California",Mosquito,North America
+CDS,3,GQ287641,1,0.716814976356275,Culex tarsalis,"USA: Imperial County, California",Mosquito,North America
+CDS,3,GQ287640,1,0.5407787887618563,Homo sapiens,Canada: Ontario,Human,North America
+CDS,4,PP747354,1,0.9304132136276477,equine,Uruguay,Equine,South America
+CDS,4,PP747353,1,0.9771648438911804,equine,Uruguay,Equine,South America
+CDS,4,PP747352,1,0.9827215950572898,equine,Uruguay,Equine,South America
+CDS,4,PP747351,1,0.979945550282157,equine,Uruguay,Equine,South America
+CDS,4,PP747350,1,0.9799455502821566,equine,Uruguay,Equine,South America
+CDS,4,PP747349,1,0.9713307130090963,equine,Uruguay,Equine,South America
+CDS,4,PP747348,1,0.9756863519031477,equine,Uruguay,Equine,South America
+CDS,4,PP747347,1,0.9815569211899295,equine,Uruguay,Equine,South America
+CDS,4,PP747346,1,0.9816347946835945,equine,Uruguay,Equine,South America
+CDS,4,PP747345,1,0.9810028926627334,equine,Uruguay,Equine,South America
+CDS,4,PP747344,1,0.9805150033059009,equine,Uruguay,Equine,South America
+CDS,4,PP747343,1,0.9821463580198305,equine,Uruguay,Equine,South America
+CDS,4,PP747342,1,0.9799455502821566,equine,Uruguay,Equine,South America
+CDS,4,PP747341,1,0.9799455502821566,equine,Uruguay,Equine,South America
+CDS,4,PP747340,1,0.950985966430454,equine,Uruguay,Equine,South America
+CDS,4,MN477208,3,0.4252384350243041,Homo sapiens,USA,Human,North America
+CDS,4,KJ554991,2,0.7473798126600796,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+CDS,4,KJ554990,2,0.6813563149854799,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+CDS,4,KJ554989,2,0.7579787293774606,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+CDS,4,KJ554988,2,0.7842987521855649,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+CDS,4,KJ554986,2,0.7839039278305412,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+CDS,4,KJ554985,3,0.613150767443233,Culex tarsalis,"USA: Lake Co., CA",Mosquito,North America
+CDS,4,KJ554984,3,0.6289202856507548,Culex tarsalis,"USA: Contra Costa Co., CA",Mosquito,North America
+CDS,4,KJ554983,2,0.7385168722862229,mosquito,"USA: Yuma, AZ",Mosquito,North America
+CDS,4,KJ554982,2,0.7578532210142488,mosquito,"USA: Phoenix, AZ",Mosquito,North America
+CDS,4,KJ554981,2,0.5527029645515499,mosquito,"USA: Parker, AZ",Mosquito,North America
+CDS,4,KJ554980,3,0.598305046224974,mosquito,"USA: Tacna, AZ",Mosquito,North America
+CDS,4,KJ554979,3,0.573833026410536,Culex tarsalis,"USA: Larimer City, CO",Mosquito,North America
+CDS,4,KJ554978,2,0.7879600291036035,Culex tarsalis,"USA: Imperial Co., CA",Mosquito,North America
+CDS,4,KJ554977,3,0.6720674291786878,mosquito,"USA: Lubbock Co., TX",Mosquito,North America
+CDS,4,KJ554976,2,0.6139123879832971,Culex tarsalis,"USA: Riverside Co., CA",Mosquito,North America
+CDS,4,KJ554974,3,0.6842525912925433,Culex tarsalis,"USA: Kern Co., CA",Mosquito,North America
+CDS,4,KJ554973,3,0.339942240405105,Culex tarsalis,"USA: Wilkin City, MN",Mosquito,North America
+CDS,4,KJ554972,3,0.5706796830821201,Culex tarsalis,"USA: Butte Co., CA",Mosquito,North America
+CDS,4,KJ554971,2,0.17337082664717596,Gopherus berlandieri,USA: Texas,Others,North America
+CDS,4,KJ554970,3,0.5998276251929909,Sciurus griseus,"USA: Butte Co., CA",Others,North America
+CDS,4,KJ554969,3,0.7189137493175306,Zonotrichia leucophrys,"USA: Kern Co., CA",Others,North America
+CDS,4,KJ554968,3,0.7150145839958072,Culex tarsalis,"USA: Bakersfield, CA",Mosquito,North America
+CDS,4,KJ554967,3,0.7243407202396867,mosquito,USA: Missouri,Mosquito,North America
+CDS,4,KJ554966,3,0.7141926097034194,Culex tarsalis,"USA: Bakersfield, CA",Mosquito,North America
+CDS,4,KJ554965,3,0.7002659048287047,horse,"USA: San Joaquin Valley, CA",Equine,North America
+CDS,4,OQ184867,3,0.4132120839712121,Homo sapiens,"USA: Larimer County, Colorado",Human,North America
+CDS,4,PP544260,1,0.9781068062938265,equine,Brazil,Equine,South America
+CDS,4,PP669617,1,0.9823349059657596,equine,Brazil,Equine,South America
+CDS,4,NC_075015,4,0,Culex sp.,Argentina: Chaco Province,Mosquito,South America
+CDS,4,GQ287647,2,0.698921397052629,Culex tarsalis,USA: New Mexico,Mosquito,North America
+CDS,4,GQ287645,3,0.2508818040327582,horse,USA: Oregon,Equine,North America
+CDS,4,GQ287644,3,0.7257750318559206,Culex tarsalis,"USA: Kern County, California",Mosquito,North America
+CDS,4,GQ287643,3,0.3285516104534865,horse,USA: Montana,Equine,North America
+CDS,4,GQ287642,2,0.7305225980726577,Culex tarsalis,"USA: Kern County, California",Mosquito,North America
+CDS,4,GQ287641,2,0.7557053159453909,Culex tarsalis,"USA: Imperial County, California",Mosquito,North America
+CDS,4,GQ287640,3,0.7000943029841838,Homo sapiens,Canada: Ontario,Human,North America
+NSP,2,PP747354,2,0.818157437822696,equine,Uruguay,Equine,South America
+NSP,2,PP747353,2,0.8171405394242505,equine,Uruguay,Equine,South America
+NSP,2,PP747352,2,0.8176341118369602,equine,Uruguay,Equine,South America
+NSP,2,PP747351,2,0.818503841973596,equine,Uruguay,Equine,South America
+NSP,2,PP747350,2,0.818503841973596,equine,Uruguay,Equine,South America
+NSP,2,PP747349,2,0.8155277642409828,equine,Uruguay,Equine,South America
+NSP,2,PP747348,2,0.810887876063015,equine,Uruguay,Equine,South America
+NSP,2,PP747347,2,0.8175715073879182,equine,Uruguay,Equine,South America
+NSP,2,PP747346,2,0.8120520850068362,equine,Uruguay,Equine,South America
+NSP,2,PP747345,2,0.8164351889258834,equine,Uruguay,Equine,South America
+NSP,2,PP747344,2,0.8171405394242505,equine,Uruguay,Equine,South America
+NSP,2,PP747343,2,0.8100302908467343,equine,Uruguay,Equine,South America
+NSP,2,PP747342,2,0.818503841973596,equine,Uruguay,Equine,South America
+NSP,2,PP747341,2,0.818503841973596,equine,Uruguay,Equine,South America
+NSP,2,PP747340,2,0.7735424382408358,equine,Uruguay,Equine,South America
+NSP,2,MN477208,1,0.6333898216024126,Homo sapiens,USA,Human,North America
+NSP,2,KJ554991,1,0.7115696891609846,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+NSP,2,KJ554990,1,0.6846427126807589,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+NSP,2,KJ554989,1,0.7417382258468763,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+NSP,2,KJ554988,1,0.7366929354741241,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+NSP,2,KJ554986,1,0.7286124826966104,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+NSP,2,KJ554985,1,0.7370158508694629,Culex tarsalis,"USA: Lake Co., CA",Mosquito,North America
+NSP,2,KJ554984,1,0.7393416365558693,Culex tarsalis,"USA: Contra Costa Co., CA",Mosquito,North America
+NSP,2,KJ554983,1,0.6997339186608378,mosquito,"USA: Yuma, AZ",Mosquito,North America
+NSP,2,KJ554982,1,0.7537004638548302,mosquito,"USA: Phoenix, AZ",Mosquito,North America
+NSP,2,KJ554981,1,0.7388513874511602,mosquito,"USA: Parker, AZ",Mosquito,North America
+NSP,2,KJ554980,1,0.75525639081667,mosquito,"USA: Tacna, AZ",Mosquito,North America
+NSP,2,KJ554979,1,0.755439650853566,Culex tarsalis,"USA: Larimer City, CO",Mosquito,North America
+NSP,2,KJ554978,1,0.7183639712843409,Culex tarsalis,"USA: Imperial Co., CA",Mosquito,North America
+NSP,2,KJ554977,1,0.700954627295496,mosquito,"USA: Lubbock Co., TX",Mosquito,North America
+NSP,2,KJ554976,1,0.752785128146096,Culex tarsalis,"USA: Riverside Co., CA",Mosquito,North America
+NSP,2,KJ554974,1,0.6558222338520113,Culex tarsalis,"USA: Kern Co., CA",Mosquito,North America
+NSP,2,KJ554973,1,0.7419418243836471,Culex tarsalis,"USA: Wilkin City, MN",Mosquito,North America
+NSP,2,KJ554972,1,0.7633448636822784,Culex tarsalis,"USA: Butte Co., CA",Mosquito,North America
+NSP,2,KJ554971,1,0.7732112569451783,Gopherus berlandieri,USA: Texas,Others,North America
+NSP,2,KJ554970,1,0.749299203026085,Sciurus griseus,"USA: Butte Co., CA",Others,North America
+NSP,2,KJ554969,1,0.7036352182938796,Zonotrichia leucophrys,"USA: Kern Co., CA",Others,North America
+NSP,2,KJ554968,1,0.7041299573625582,Culex tarsalis,"USA: Bakersfield, CA",Mosquito,North America
+NSP,2,KJ554967,1,0.6547942577674118,mosquito,USA: Missouri,Mosquito,North America
+NSP,2,KJ554966,1,0.6260906219315957,Culex tarsalis,"USA: Bakersfield, CA",Mosquito,North America
+NSP,2,KJ554965,1,0.6707347498620172,horse,"USA: San Joaquin Valley, CA",Equine,North America
+NSP,2,OQ184867,1,0.7554834182664063,Homo sapiens,"USA: Larimer County, Colorado",Human,North America
+NSP,2,PP544260,2,0.818503841973596,equine,Brazil,Equine,South America
+NSP,2,PP669617,2,0.8118199976237811,equine,Brazil,Equine,South America
+NSP,2,NC_075015,2,0.010100801354759338,Culex sp.,Argentina: Chaco Province,Mosquito,South America
+NSP,2,GQ287647,1,0.7424229787169909,Culex tarsalis,USA: New Mexico,Mosquito,North America
+NSP,2,GQ287645,1,0.7395101592708877,horse,USA: Oregon,Equine,North America
+NSP,2,GQ287644,1,0.7325073472426967,Culex tarsalis,"USA: Kern County, California",Mosquito,North America
+NSP,2,GQ287643,1,0.7615386203658674,horse,USA: Montana,Equine,North America
+NSP,2,GQ287642,1,0.6633027176420645,Culex tarsalis,"USA: Kern County, California",Mosquito,North America
+NSP,2,GQ287641,1,0.6836898511908691,Culex tarsalis,"USA: Imperial County, California",Mosquito,North America
+NSP,2,GQ287640,1,0.6733596808600395,Homo sapiens,Canada: Ontario,Human,North America
+NSP,3,PP747354,2,0.9428518423864158,equine,Uruguay,Equine,South America
+NSP,3,PP747353,2,0.9409161167270074,equine,Uruguay,Equine,South America
+NSP,3,PP747352,2,0.9528349131238181,equine,Uruguay,Equine,South America
+NSP,3,PP747351,2,0.9534868360580413,equine,Uruguay,Equine,South America
+NSP,3,PP747350,2,0.9534868360580413,equine,Uruguay,Equine,South America
+NSP,3,PP747349,2,0.9456006851948477,equine,Uruguay,Equine,South America
+NSP,3,PP747348,2,0.9329629680212987,equine,Uruguay,Equine,South America
+NSP,3,PP747347,2,0.942039021552388,equine,Uruguay,Equine,South America
+NSP,3,PP747346,2,0.9479784803890878,equine,Uruguay,Equine,South America
+NSP,3,PP747345,2,0.9401090363895499,equine,Uruguay,Equine,South America
+NSP,3,PP747344,2,0.9409161167270074,equine,Uruguay,Equine,South America
+NSP,3,PP747343,2,0.9432137372735885,equine,Uruguay,Equine,South America
+NSP,3,PP747342,2,0.9534868360580413,equine,Uruguay,Equine,South America
+NSP,3,PP747341,2,0.9534868360580413,equine,Uruguay,Equine,South America
+NSP,3,PP747340,2,0.9129291285636373,equine,Uruguay,Equine,South America
+NSP,3,MN477208,1,0.5893807346168476,Homo sapiens,USA,Human,North America
+NSP,3,KJ554991,1,0.6991198786387487,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+NSP,3,KJ554990,1,0.6729303050559297,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+NSP,3,KJ554989,1,0.7301357743865885,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+NSP,3,KJ554988,1,0.7248036182836387,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+NSP,3,KJ554986,1,0.7173886858124654,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+NSP,3,KJ554985,1,0.7107362487144065,Culex tarsalis,"USA: Lake Co., CA",Mosquito,North America
+NSP,3,KJ554984,1,0.7137329233973955,Culex tarsalis,"USA: Contra Costa Co., CA",Mosquito,North America
+NSP,3,KJ554983,1,0.688300136474975,mosquito,"USA: Yuma, AZ",Mosquito,North America
+NSP,3,KJ554982,1,0.7416384827552475,mosquito,"USA: Phoenix, AZ",Mosquito,North America
+NSP,3,KJ554981,1,0.7274146066822659,mosquito,"USA: Parker, AZ",Mosquito,North America
+NSP,3,KJ554980,1,0.7325059784766378,mosquito,"USA: Tacna, AZ",Mosquito,North America
+NSP,3,KJ554979,1,0.733399995927683,Culex tarsalis,"USA: Larimer City, CO",Mosquito,North America
+NSP,3,KJ554978,1,0.7070688522597013,Culex tarsalis,"USA: Imperial Co., CA",Mosquito,North America
+NSP,3,KJ554977,1,0.6687458957399127,mosquito,"USA: Lubbock Co., TX",Mosquito,North America
+NSP,3,KJ554976,1,0.7401297183953093,Culex tarsalis,"USA: Riverside Co., CA",Mosquito,North America
+NSP,3,KJ554974,1,0.616412326771406,Culex tarsalis,"USA: Kern Co., CA",Mosquito,North America
+NSP,3,KJ554973,1,0.7200842257278977,Culex tarsalis,"USA: Wilkin City, MN",Mosquito,North America
+NSP,3,KJ554972,1,0.7431025989054194,Culex tarsalis,"USA: Butte Co., CA",Mosquito,North America
+NSP,3,KJ554971,1,0.7571260483765213,Gopherus berlandieri,USA: Texas,Others,North America
+NSP,3,KJ554970,1,0.726802015889507,Sciurus griseus,"USA: Butte Co., CA",Others,North America
+NSP,3,KJ554969,1,0.6716149669107456,Zonotrichia leucophrys,"USA: Kern Co., CA",Others,North America
+NSP,3,KJ554968,1,0.6721893039154018,Culex tarsalis,"USA: Bakersfield, CA",Mosquito,North America
+NSP,3,KJ554967,1,0.614713727748938,mosquito,USA: Missouri,Mosquito,North America
+NSP,3,KJ554966,1,0.5804518840896836,Culex tarsalis,"USA: Bakersfield, CA",Mosquito,North America
+NSP,3,KJ554965,1,0.6331044369421068,horse,"USA: San Joaquin Valley, CA",Equine,North America
+NSP,3,OQ184867,1,0.7335815380677316,Homo sapiens,"USA: Larimer County, Colorado",Human,North America
+NSP,3,PP544260,2,0.9534868360580413,equine,Brazil,Equine,South America
+NSP,3,PP669617,2,0.9457767844984306,equine,Brazil,Equine,South America
+NSP,3,NC_075015,3,0,Culex sp.,Argentina: Chaco Province,Mosquito,South America
+NSP,3,GQ287647,1,0.7308031462851418,Culex tarsalis,USA: New Mexico,Mosquito,North America
+NSP,3,GQ287645,1,0.7158496547458792,horse,USA: Oregon,Equine,North America
+NSP,3,GQ287644,1,0.7054259130953481,Culex tarsalis,"USA: Kern County, California",Mosquito,North America
+NSP,3,GQ287643,1,0.7437750878983101,horse,USA: Montana,Equine,North America
+NSP,3,GQ287642,1,0.6512405325704128,Culex tarsalis,"USA: Kern County, California",Mosquito,North America
+NSP,3,GQ287641,1,0.6711393005399686,Culex tarsalis,"USA: Imperial County, California",Mosquito,North America
+NSP,3,GQ287640,1,0.6360704354316522,Homo sapiens,Canada: Ontario,Human,North America
+NSP,4,PP747354,4,0.9341817632752725,equine,Uruguay,Equine,South America
+NSP,4,PP747353,4,0.9320472547850819,equine,Uruguay,Equine,South America
+NSP,4,PP747352,4,0.9449589348027841,equine,Uruguay,Equine,South America
+NSP,4,PP747351,4,0.945754460826637,equine,Uruguay,Equine,South America
+NSP,4,PP747350,4,0.9457544608266371,equine,Uruguay,Equine,South America
+NSP,4,PP747349,4,0.9368243939084094,equine,Uruguay,Equine,South America
+NSP,4,PP747348,4,0.9230398195614395,equine,Uruguay,Equine,South America
+NSP,4,PP747347,4,0.9332608966813444,equine,Uruguay,Equine,South America
+NSP,4,PP747346,4,0.9392014941004372,equine,Uruguay,Equine,South America
+NSP,4,PP747345,4,0.9311169494606476,equine,Uruguay,Equine,South America
+NSP,4,PP747344,4,0.9320472547850818,equine,Uruguay,Equine,South America
+NSP,4,PP747343,4,0.9337290474770219,equine,Uruguay,Equine,South America
+NSP,4,PP747342,4,0.9457544608266371,equine,Uruguay,Equine,South America
+NSP,4,PP747341,4,0.9457544608266371,equine,Uruguay,Equine,South America
+NSP,4,PP747340,4,0.8972769857329564,equine,Uruguay,Equine,South America
+NSP,4,MN477208,2,0.7561732753052013,Homo sapiens,USA,Human,North America
+NSP,4,KJ554991,3,0.7509871171072163,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+NSP,4,KJ554990,3,0.7517833157797575,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+NSP,4,KJ554989,3,0.7943755876443221,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+NSP,4,KJ554988,3,0.7837562553559057,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+NSP,4,KJ554986,3,0.7961407066935261,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+NSP,4,KJ554985,2,0.8227210275831082,Culex tarsalis,"USA: Lake Co., CA",Mosquito,North America
+NSP,4,KJ554984,2,0.8187170692035385,Culex tarsalis,"USA: Contra Costa Co., CA",Mosquito,North America
+NSP,4,KJ554983,3,0.6698320221830047,mosquito,"USA: Yuma, AZ",Mosquito,North America
+NSP,4,KJ554982,3,0.6842794310847664,mosquito,"USA: Phoenix, AZ",Mosquito,North America
+NSP,4,KJ554981,3,0.8024975383965849,mosquito,"USA: Parker, AZ",Mosquito,North America
+NSP,4,KJ554980,2,0.7923433668131946,mosquito,"USA: Tacna, AZ",Mosquito,North America
+NSP,4,KJ554979,2,0.7688618733432524,Culex tarsalis,"USA: Larimer City, CO",Mosquito,North America
+NSP,4,KJ554978,3,0.804341043442872,Culex tarsalis,"USA: Imperial Co., CA",Mosquito,North America
+NSP,4,KJ554977,2,0.8211543557981599,mosquito,"USA: Lubbock Co., TX",Mosquito,North America
+NSP,4,KJ554976,3,0.5469022742768049,Culex tarsalis,"USA: Riverside Co., CA",Mosquito,North America
+NSP,4,KJ554974,2,0.7864133901161698,Culex tarsalis,"USA: Kern Co., CA",Mosquito,North America
+NSP,4,KJ554973,2,0.6746953847291821,Culex tarsalis,"USA: Wilkin City, MN",Mosquito,North America
+NSP,4,KJ554972,2,0.6600067091741785,Culex tarsalis,"USA: Butte Co., CA",Mosquito,North America
+NSP,4,KJ554971,2,0.30922287011698624,Gopherus berlandieri,USA: Texas,Others,North America
+NSP,4,KJ554970,2,0.6807285682057753,Sciurus griseus,"USA: Butte Co., CA",Others,North America
+NSP,4,KJ554969,2,0.8255043613997743,Zonotrichia leucophrys,"USA: Kern Co., CA",Others,North America
+NSP,4,KJ554968,2,0.8256804384412026,Culex tarsalis,"USA: Bakersfield, CA",Mosquito,North America
+NSP,4,KJ554967,2,0.7666633912779168,mosquito,USA: Missouri,Mosquito,North America
+NSP,4,KJ554966,2,0.7682174587500016,Culex tarsalis,"USA: Bakersfield, CA",Mosquito,North America
+NSP,4,KJ554965,2,0.7922430295426887,horse,"USA: San Joaquin Valley, CA",Equine,North America
+NSP,4,OQ184867,2,0.762692827341824,Homo sapiens,"USA: Larimer County, Colorado",Human,North America
+NSP,4,PP544260,4,0.9457544608266371,equine,Brazil,Equine,South America
+NSP,4,PP669617,4,0.9368646582198924,equine,Brazil,Equine,South America
+NSP,4,NC_075015,1,0,Culex sp.,Argentina: Chaco Province,Mosquito,South America
+NSP,4,GQ287647,3,0.7402721032459635,Culex tarsalis,USA: New Mexico,Mosquito,North America
+NSP,4,GQ287645,2,0.7508409199371616,horse,USA: Oregon,Equine,North America
+NSP,4,GQ287644,2,0.8240500981766123,Culex tarsalis,"USA: Kern County, California",Mosquito,North America
+NSP,4,GQ287643,2,0.48638878342476877,horse,USA: Montana,Equine,North America
+NSP,4,GQ287642,3,0.7049692345689815,Culex tarsalis,"USA: Kern County, California",Mosquito,North America
+NSP,4,GQ287641,3,0.7211751292853636,Culex tarsalis,"USA: Imperial County, California",Mosquito,North America
+NSP,4,GQ287640,2,0.8032526083086943,Homo sapiens,Canada: Ontario,Human,North America
+SP,2,PP747354,1,0.878710146927597,equine,Uruguay,Equine,South America
+SP,2,PP747353,1,0.9389652303655229,equine,Uruguay,Equine,South America
+SP,2,PP747352,1,0.9459852660946504,equine,Uruguay,Equine,South America
+SP,2,PP747351,1,0.9496729494819873,equine,Uruguay,Equine,South America
+SP,2,PP747350,1,0.9496729494819873,equine,Uruguay,Equine,South America
+SP,2,PP747349,1,0.9474088735006446,equine,Uruguay,Equine,South America
+SP,2,PP747348,1,0.9432596296564303,equine,Uruguay,Equine,South America
+SP,2,PP747347,1,0.9432596296564303,equine,Uruguay,Equine,South America
+SP,2,PP747346,1,0.934023521058947,equine,Uruguay,Equine,South America
+SP,2,PP747345,1,0.9432596296564303,equine,Uruguay,Equine,South America
+SP,2,PP747344,1,0.9432596296564303,equine,Uruguay,Equine,South America
+SP,2,PP747343,1,0.9474088735006448,equine,Uruguay,Equine,South America
+SP,2,PP747342,1,0.9496729494819873,equine,Uruguay,Equine,South America
+SP,2,PP747341,1,0.9496729494819873,equine,Uruguay,Equine,South America
+SP,2,PP747340,1,0.9474088735006448,equine,Uruguay,Equine,South America
+SP,2,MN477208,2,0.5167196261581233,Homo sapiens,USA,Human,North America
+SP,2,KJ554991,2,0.7421629524595426,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+SP,2,KJ554990,2,0.7571516346227395,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+SP,2,KJ554989,2,0.7363912646492434,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+SP,2,KJ554988,2,0.7050515522719009,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+SP,2,KJ554986,2,0.7443299986398634,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+SP,2,KJ554985,2,0.7327835635007224,Culex tarsalis,"USA: Lake Co., CA",Mosquito,North America
+SP,2,KJ554984,2,0.7242685930818986,Culex tarsalis,"USA: Contra Costa Co., CA",Mosquito,North America
+SP,2,KJ554983,2,0.7495750400174633,mosquito,"USA: Yuma, AZ",Mosquito,North America
+SP,2,KJ554982,2,0.7372818587468866,mosquito,"USA: Phoenix, AZ",Mosquito,North America
+SP,2,KJ554981,2,0.7681826267177356,mosquito,"USA: Parker, AZ",Mosquito,North America
+SP,2,KJ554980,2,0.7379301637174649,mosquito,"USA: Tacna, AZ",Mosquito,North America
+SP,2,KJ554979,2,0.7237237940385142,Culex tarsalis,"USA: Larimer City, CO",Mosquito,North America
+SP,2,KJ554978,2,0.734092980894214,Culex tarsalis,"USA: Imperial Co., CA",Mosquito,North America
+SP,2,KJ554977,2,0.7380038003775221,mosquito,"USA: Lubbock Co., TX",Mosquito,North America
+SP,2,KJ554976,2,0.7620141142732734,Culex tarsalis,"USA: Riverside Co., CA",Mosquito,North America
+SP,2,KJ554974,2,0.5848036021910076,Culex tarsalis,"USA: Kern Co., CA",Mosquito,North America
+SP,2,KJ554973,2,0.7284197196670669,Culex tarsalis,"USA: Wilkin City, MN",Mosquito,North America
+SP,2,KJ554972,2,0.6465861911935801,Culex tarsalis,"USA: Butte Co., CA",Mosquito,North America
+SP,2,KJ554971,2,0.7650564348119125,Gopherus berlandieri,USA: Texas,Others,North America
+SP,2,KJ554970,2,0.7088558564261416,Sciurus griseus,"USA: Butte Co., CA",Others,North America
+SP,2,KJ554969,2,0.588947219851095,Zonotrichia leucophrys,"USA: Kern Co., CA",Others,North America
+SP,2,KJ554968,2,0.588947219851095,Culex tarsalis,"USA: Bakersfield, CA",Mosquito,North America
+SP,2,KJ554967,2,0.6488699754379554,mosquito,USA: Missouri,Mosquito,North America
+SP,2,KJ554966,2,0.6331237515665317,Culex tarsalis,"USA: Bakersfield, CA",Mosquito,North America
+SP,2,KJ554965,2,0.40775552499415046,horse,"USA: San Joaquin Valley, CA",Equine,North America
+SP,2,OQ184867,2,0.7189454011833825,Homo sapiens,"USA: Larimer County, Colorado",Human,North America
+SP,2,PP544260,1,0.9477410915439493,equine,Brazil,Equine,South America
+SP,2,PP669617,1,0.949672949481987,equine,Brazil,Equine,South America
+SP,2,NC_075015,2,0.02326579304781739,Culex sp.,Argentina: Chaco Province,Mosquito,South America
+SP,2,GQ287647,2,0.74880159187474,Culex tarsalis,USA: New Mexico,Mosquito,North America
+SP,2,GQ287645,2,0.7399676468772008,horse,USA: Oregon,Equine,North America
+SP,2,GQ287644,2,0.5955863720680427,Culex tarsalis,"USA: Kern County, California",Mosquito,North America
+SP,2,GQ287643,2,0.7129483387897564,horse,USA: Montana,Equine,North America
+SP,2,GQ287642,2,0.7495564118709718,Culex tarsalis,"USA: Kern County, California",Mosquito,North America
+SP,2,GQ287641,2,0.7495564118709718,Culex tarsalis,"USA: Imperial County, California",Mosquito,North America
+SP,2,GQ287640,2,0.3950779314907993,Homo sapiens,Canada: Ontario,Human,North America
+SP,3,PP747354,1,0.8769560776819684,equine,Uruguay,Equine,South America
+SP,3,PP747353,1,0.9378535293947573,equine,Uruguay,Equine,South America
+SP,3,PP747352,1,0.9448591875392469,equine,Uruguay,Equine,South America
+SP,3,PP747351,1,0.9485882982843307,equine,Uruguay,Equine,South America
+SP,3,PP747350,1,0.9485882982843307,equine,Uruguay,Equine,South America
+SP,3,PP747349,1,0.9463467656626275,equine,Uruguay,Equine,South America
+SP,3,PP747348,1,0.9422398657302657,equine,Uruguay,Equine,South America
+SP,3,PP747347,1,0.9422398657302657,equine,Uruguay,Equine,South America
+SP,3,PP747346,1,0.9326120570739778,equine,Uruguay,Equine,South America
+SP,3,PP747345,1,0.9422398657302657,equine,Uruguay,Equine,South America
+SP,3,PP747344,1,0.9422398657302657,equine,Uruguay,Equine,South America
+SP,3,PP747343,1,0.9463467656626277,equine,Uruguay,Equine,South America
+SP,3,PP747342,1,0.9485882982843307,equine,Uruguay,Equine,South America
+SP,3,PP747341,1,0.9485882982843307,equine,Uruguay,Equine,South America
+SP,3,PP747340,1,0.9463467656626277,equine,Uruguay,Equine,South America
+SP,3,MN477208,2,0.562021022198669,Homo sapiens,USA,Human,North America
+SP,3,KJ554991,2,0.7813868892725767,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+SP,3,KJ554990,2,0.7957807722294948,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+SP,3,KJ554989,2,0.7744121816730053,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+SP,3,KJ554988,2,0.7400161254138914,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+SP,3,KJ554986,2,0.7812640966887209,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+SP,3,KJ554985,2,0.7691287256330165,Culex tarsalis,"USA: Lake Co., CA",Mosquito,North America
+SP,3,KJ554984,2,0.7636527023483755,Culex tarsalis,"USA: Contra Costa Co., CA",Mosquito,North America
+SP,3,KJ554983,2,0.7852673452368507,mosquito,"USA: Yuma, AZ",Mosquito,North America
+SP,3,KJ554982,2,0.7709357751845272,mosquito,"USA: Phoenix, AZ",Mosquito,North America
+SP,3,KJ554981,2,0.8078655041759893,mosquito,"USA: Parker, AZ",Mosquito,North America
+SP,3,KJ554980,2,0.7760589319269465,mosquito,"USA: Tacna, AZ",Mosquito,North America
+SP,3,KJ554979,2,0.7614187734811942,Culex tarsalis,"USA: Larimer City, CO",Mosquito,North America
+SP,3,KJ554978,2,0.7665729888565952,Culex tarsalis,"USA: Imperial Co., CA",Mosquito,North America
+SP,3,KJ554977,2,0.7768906888410242,mosquito,"USA: Lubbock Co., TX",Mosquito,North America
+SP,3,KJ554976,2,0.7983117521482682,Culex tarsalis,"USA: Riverside Co., CA",Mosquito,North America
+SP,3,KJ554974,2,0.637981781810045,Culex tarsalis,"USA: Kern Co., CA",Mosquito,North America
+SP,3,KJ554973,2,0.7643949048360483,Culex tarsalis,"USA: Wilkin City, MN",Mosquito,North America
+SP,3,KJ554972,2,0.6955521829720825,Culex tarsalis,"USA: Butte Co., CA",Mosquito,North America
+SP,3,KJ554971,2,0.8057717476324611,Gopherus berlandieri,USA: Texas,Others,North America
+SP,3,KJ554970,2,0.7559750920980447,Sciurus griseus,"USA: Butte Co., CA",Others,North America
+SP,3,KJ554969,2,0.6419974317240986,Zonotrichia leucophrys,"USA: Kern Co., CA",Others,North America
+SP,3,KJ554968,2,0.6419974317240986,Culex tarsalis,"USA: Bakersfield, CA",Mosquito,North America
+SP,3,KJ554967,2,0.6996077819158473,mosquito,USA: Missouri,Mosquito,North America
+SP,3,KJ554966,2,0.6845754876052257,Culex tarsalis,"USA: Bakersfield, CA",Mosquito,North America
+SP,3,KJ554965,2,0.4649305858397553,horse,"USA: San Joaquin Valley, CA",Equine,North America
+SP,3,OQ184867,2,0.7554846567993526,Homo sapiens,"USA: Larimer County, Colorado",Human,North America
+SP,3,PP544260,1,0.9466077367232969,equine,Brazil,Equine,South America
+SP,3,PP669617,1,0.9485882982843303,equine,Brazil,Equine,South America
+SP,3,NC_075015,3,0,Culex sp.,Argentina: Chaco Province,Mosquito,South America
+SP,3,GQ287647,2,0.7837112246918302,Culex tarsalis,USA: New Mexico,Mosquito,North America
+SP,3,GQ287645,2,0.7751591701876656,horse,USA: Oregon,Equine,North America
+SP,3,GQ287644,2,0.6483510216065673,Culex tarsalis,"USA: Kern County, California",Mosquito,North America
+SP,3,GQ287643,2,0.7597051334489912,horse,USA: Montana,Equine,North America
+SP,3,GQ287642,2,0.7890528154478692,Culex tarsalis,"USA: Kern County, California",Mosquito,North America
+SP,3,GQ287641,2,0.7890528154478692,Culex tarsalis,"USA: Imperial County, California",Mosquito,North America
+SP,3,GQ287640,2,0.4480217555500722,Homo sapiens,Canada: Ontario,Human,North America
+SP,4,PP747354,4,0.8497913996148786,equine,Uruguay,Equine,South America
+SP,4,PP747353,4,0.9223697157088406,equine,Uruguay,Equine,South America
+SP,4,PP747352,4,0.9305043083922648,equine,Uruguay,Equine,South America
+SP,4,PP747351,4,0.9348834288863681,equine,Uruguay,Equine,South America
+SP,4,PP747350,4,0.9348834288863681,equine,Uruguay,Equine,South America
+SP,4,PP747349,4,0.9322713756774893,equine,Uruguay,Equine,South America
+SP,4,PP747348,4,0.9280181809894323,equine,Uruguay,Equine,South America
+SP,4,PP747347,4,0.9280181809894323,equine,Uruguay,Equine,South America
+SP,4,PP747346,4,0.9149314539113883,equine,Uruguay,Equine,South America
+SP,4,PP747345,4,0.9280181809894323,equine,Uruguay,Equine,South America
+SP,4,PP747344,4,0.9280181809894323,equine,Uruguay,Equine,South America
+SP,4,PP747343,4,0.9322713756774895,equine,Uruguay,Equine,South America
+SP,4,PP747342,4,0.9348834288863681,equine,Uruguay,Equine,South America
+SP,4,PP747341,4,0.9348834288863681,equine,Uruguay,Equine,South America
+SP,4,PP747340,4,0.9322713756774895,equine,Uruguay,Equine,South America
+SP,4,MN477208,3,0.46298999805050456,Homo sapiens,USA,Human,North America
+SP,4,KJ554991,2,0.5026353842130895,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+SP,4,KJ554990,2,0.5661113198517405,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+SP,4,KJ554989,2,0.5251249511285577,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+SP,4,KJ554988,2,0.49955456565944845,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+SP,4,KJ554986,2,0.5762395366047838,mosquito,"USA: El Paso Co., TX",Mosquito,North America
+SP,4,KJ554985,2,0.3960945343328573,Culex tarsalis,"USA: Lake Co., CA",Mosquito,North America
+SP,4,KJ554984,2,0.185662370327536,Culex tarsalis,"USA: Contra Costa Co., CA",Mosquito,North America
+SP,4,KJ554983,2,0.6096786362655303,mosquito,"USA: Yuma, AZ",Mosquito,North America
+SP,4,KJ554982,2,0.5996572959374326,mosquito,"USA: Phoenix, AZ",Mosquito,North America
+SP,4,KJ554981,2,0.4631840807366645,mosquito,"USA: Parker, AZ",Mosquito,North America
+SP,4,KJ554980,2,0.33978806985835436,mosquito,"USA: Tacna, AZ",Mosquito,North America
+SP,4,KJ554979,2,0.2849323472591544,Culex tarsalis,"USA: Larimer City, CO",Mosquito,North America
+SP,4,KJ554978,2,0.5837132727762225,Culex tarsalis,"USA: Imperial Co., CA",Mosquito,North America
+SP,4,KJ554977,2,0.2974487482522948,mosquito,"USA: Lubbock Co., TX",Mosquito,North America
+SP,4,KJ554976,2,0.5931940274872498,Culex tarsalis,"USA: Riverside Co., CA",Mosquito,North America
+SP,4,KJ554974,3,0.7587853976299903,Culex tarsalis,"USA: Kern Co., CA",Mosquito,North America
+SP,4,KJ554973,2,0.38904198279038116,Culex tarsalis,"USA: Wilkin City, MN",Mosquito,North America
+SP,4,KJ554972,3,0.6267500975081904,Culex tarsalis,"USA: Butte Co., CA",Mosquito,North America
+SP,4,KJ554971,2,0.46486780902384417,Gopherus berlandieri,USA: Texas,Others,North America
+SP,4,KJ554970,3,0.3514162971833882,Sciurus griseus,"USA: Butte Co., CA",Others,North America
+SP,4,KJ554969,3,0.7613859705980116,Zonotrichia leucophrys,"USA: Kern Co., CA",Others,North America
+SP,4,KJ554968,3,0.7613859705980116,Culex tarsalis,"USA: Bakersfield, CA",Mosquito,North America
+SP,4,KJ554967,3,0.6933998233207614,mosquito,USA: Missouri,Mosquito,North America
+SP,4,KJ554966,3,0.7180591967313793,Culex tarsalis,"USA: Bakersfield, CA",Mosquito,North America
+SP,4,KJ554965,3,0.6606347428865633,horse,"USA: San Joaquin Valley, CA",Equine,North America
+SP,4,OQ184867,2,0.31638073212296647,Homo sapiens,"USA: Larimer County, Colorado",Human,North America
+SP,4,PP544260,4,0.9323157568558427,equine,Brazil,Equine,South America
+SP,4,PP669617,4,0.9348834288863677,equine,Brazil,Equine,South America
+SP,4,NC_075015,1,0,Culex sp.,Argentina: Chaco Province,Mosquito,South America
+SP,4,GQ287647,2,0.6144853530223925,Culex tarsalis,USA: New Mexico,Mosquito,North America
+SP,4,GQ287645,2,0.47911119068032754,horse,USA: Oregon,Equine,North America
+SP,4,GQ287644,3,0.7596950372678776,Culex tarsalis,"USA: Kern County, California",Mosquito,North America
+SP,4,GQ287643,3,0.30133296448066843,horse,USA: Montana,Equine,North America
+SP,4,GQ287642,2,0.5151859079551517,Culex tarsalis,"USA: Kern County, California",Mosquito,North America
+SP,4,GQ287641,2,0.5151859079551517,Culex tarsalis,"USA: Imperial County, California",Mosquito,North America
+SP,4,GQ287640,3,0.5964691521435096,Homo sapiens,Canada: Ontario,Human,North America
